@@ -1,0 +1,17 @@
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    int intti;
+    long lg;
+    char c;
+    float f;
+    double db;
+    cin>>intti>>lg>>c>>f>>db;
+    cout<<intti<<"\n"<<lg<<"\n"<<c<<"\n"<<f3<<"\n"<<9db<<endl;
+    
+    
+    // Complete the code.
+    return 0;
+}
